@@ -30,22 +30,8 @@
 * **How to use GitHub?**
 
 
-* How to download C codes?
+* **How to download C codes?
 
-	
-And here's some code! :+1:
-
-```javascript
-$(function(){
-  $('div').html('I am a div.');
-});
-```
-
-This is [on GitHub](https://github.com/jbt/markdown-editor) so let me know if I've b0rked it somewhere.
-
-
-Props to Mr. Doob and his [code editor](http://mrdoob.com/projects/code-editor/), from which
-the inspiration to this, and some handy implementation hints, came.
 
 ### Lab Evaluation
 
